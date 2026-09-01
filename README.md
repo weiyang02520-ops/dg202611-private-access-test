@@ -1,0 +1,4 @@
+DG202611_PRIVATE_ACCESS_TEST
+OWNER=weiyang02520-ops
+VISIBILITY=PRIVATE
+PURPOSE=ChatGPT GitHub connector private repository access verification
